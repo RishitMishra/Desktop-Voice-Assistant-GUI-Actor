@@ -1,0 +1,8 @@
+transformers
+torch
+openai-whisper
+sounddevice
+speechrecognition
+pyautogui
+pyttsx3
+notebook
